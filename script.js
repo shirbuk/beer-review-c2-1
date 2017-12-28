@@ -64,4 +64,4 @@ var BeerReviewApp = function () {
     app.addBeer($('.beer-input').val(), $('.category-input').val());
 
     app.updateBeers();
-  });
+  })
