@@ -66,5 +66,4 @@ var BeerReviewApp = function () {
     app.updateBeers();
   })
 
-  //changes-week-3
-  // another
+// patch-2 
